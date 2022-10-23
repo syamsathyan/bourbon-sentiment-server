@@ -1,4 +1,4 @@
-A predictive regression analyzer for adaptive fault detection and cognitive sampling varience
+Sentiment Analysis Server
 
 ### Config
 
