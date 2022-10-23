@@ -6,7 +6,7 @@ Dev / Prod profiles in application.yml
 
 ### Deployment
 
-Deployed using maven can be run with the command:
+Deployed using maven, can be run with the command:
 
 ```
 ./run.sh
